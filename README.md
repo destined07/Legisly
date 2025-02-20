@@ -10,7 +10,8 @@
 - **Transparency and Traceability:** Provides users with clear references and sources behind legal insights, fostering trust and understanding.
 
   ## Flowchart
-  
+  ![legisly_flowchart](https://github.com/user-attachments/assets/6b18ba9f-925f-4cbc-96ac-8beb101345c5)
+
 
 ## 🛠️ Tech Stack & Requirements
 ### **Tech Stack**
